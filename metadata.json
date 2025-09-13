@@ -1,0 +1,7 @@
+{
+  "name": "DECO Window Solutions Simulator",
+  "description": "An innovative application that allows users to upload a photo of their window and virtually try on different types of blinds and curtains. Leveraging AI, it provides hyper-realistic day and night simulations to help users make the perfect interior design choice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
